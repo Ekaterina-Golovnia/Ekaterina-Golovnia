@@ -1,6 +1,6 @@
 # Ekaterina Golovnia — Data Analyst
 
-Продуктовый аналитик с бэкграундом в сфере разработки и производства одежды, опытом аналитических проектов в E-commerce, Fintech и Media и создания BI-решений.
+Продуктовый аналитик с опытом аналитических проектов в E-commerce, Fintech и Media, создания BI-решений и профессиональным бэкграундом в разработке и производстве одежды.
 
 ### Technical Skills
 SQL (PostgreSQL, ClickHouse, CTE, Window Functions), Python (Pandas, NumPy, SciPy, Statsmodels, Matplotlib, Seaborn), PySpark, Airflow, Tableau, DataLens.
