@@ -1,8 +1,14 @@
 # Ekaterina Golovnia — Data Analyst
 
-Продуктовый аналитик с бэкграундом в работе с данными в госсекторе (МФТИ, бюджеты порядка 1 млрд руб.) и портфолио из 3 проектов в EdTech, E-commerce и FinTech.
+Продуктовый аналитик с бэкграундом в сфере разработки и производства одежды, опытом реализации аналитических проектов в E-commerce, Fintech и Media и создания BI-решений.
 
-**Стек:** SQL (PostgreSQL, ClickHouse, оконные функции, CTE), Python (pandas, scipy, plotly), A/B-тесты, DataLens.
+### Technical Skills
+SQL (PostgreSQL, ClickHouse), Python (Pandas, NumPy, SciPy, Statsmodels, Matplotlib, Seaborn), PySpark, Airflow, Tableau, DataLens, Excel.
+
+### Analytical Skills
+Funnel Analysis, Cohort Analysis, Retention Analysis, Product Metrics, Unit Economics, A/B Testing, Statistical Analysis, Data Quality.
+
+
 
 <!--
 **Ekaterina-Golovnia/Ekaterina-Golovnia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
