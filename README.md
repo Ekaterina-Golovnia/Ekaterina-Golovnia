@@ -1,4 +1,8 @@
-## Hi there 👋
+# Ekaterina Golovnia — Data Analyst
+
+Продуктовый аналитик с бэкграундом в работе с данными в госсекторе (МФТИ, бюджеты порядка 1 млрд руб.) и портфолио из 3 проектов в EdTech, E-commerce и FinTech.
+
+**Стек:** SQL (PostgreSQL, ClickHouse, оконные функции, CTE), Python (pandas, scipy, plotly), A/B-тесты, DataLens.
 
 <!--
 **Ekaterina-Golovnia/Ekaterina-Golovnia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
