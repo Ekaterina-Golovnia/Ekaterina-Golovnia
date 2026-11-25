@@ -12,8 +12,10 @@ Funnel Analysis, Cohort Analysis, Retention Analysis, Product Metrics, Unit Econ
 
 ## Contacts
 
-- Telegram: [@Gofromchu](https://t.me/Gofromchu)
 - Email: eka.golovnia@gmail.com
+- LinkedIn: [ekaterina-golovnia](https://www.linkedin.com/in/ekaterina-golovnia/)
+- Telegram: [@Gofromchu](https://t.me/Gofromchu)
+  
 
 <!--
 **Ekaterina-Golovnia/Ekaterina-Golovnia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
